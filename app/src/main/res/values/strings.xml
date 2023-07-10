@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SalavatShomar</string>
+    <string name="mainText">صلوات علی محمد</string>
+    <string name="_0">0</string>
+    <string name="about">About</string>
+    <string name="about_me">created in 22 bahman 1400 by M.sadegi</string>
+    <string name="encouraging_text">!ماشالاه!</string>
+    <string name="reset">Reset</string>
+    <string name="saying_of_day">خداوند نیز بر پیامبر و خاندانش صلوات می فرستد</string>
+    <string name="day1Saying">ذکر روز شنبه :یا رَبِّ الْعالَمِین  \n\"ای پروردگار جهانیان\"</string>
+    <string name="day2Saying">ذکر روز یکشنبه : یا ذَالجَلالِ وَ اْلاِکْرام  \n\"ای صاحب جلال و بزرگواری\"</string>
+    <string name="day3Saying">ذکر روز دوشنبه : یا قاضیَ الحاجات  \n\"ای برآورنده حاجت ها\"</string>
+    <string name="day4Saying">ذکر روز سه شنبه : یا أَرْحَمَ الرَّاحِمِین  \n\"ای مهربان ترین مهربانا\"</string>
+    <string name="day5Saying">ذکر روز چهارشنبه : یا حَیُّ یا قَیّومُ  \n\"ای زنده، ای پاینده\"</string>
+    <string name="day6Saying">ذکر روز پنجشنبه :لا إِلهَ إِلَّا اللَّهُ المَلِک الحقّ المُبین  \n\"نیست خدایی جز الله فرمانروای حق و آشکار\"</string>
+    <string name="day7Saying">ذکر روز جمعه : الّلهُمَّ صَلِّ عَلَی مُحَمَّدٍ وَآلِ مُحَمَّدٍ  \n\"خدایا بر محمد و آل محمد درود فرست\"</string>
+
+</resources>
